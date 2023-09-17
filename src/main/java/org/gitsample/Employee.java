@@ -1,10 +1,10 @@
 package org.gitsample;
 
 public class Employee {
-	private String name;
-	private String address ;
-	private String address2 ;
-	private String address3 ;
+	private String Name;
+	private String Address1 ;
+	private String Address2 ;
+	private String Address3 ;
 	private String PinCode ;
 	
 	
